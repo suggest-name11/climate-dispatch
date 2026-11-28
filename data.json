@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-11-27T07:10:13.958Z",
+  "updatedAt": "2026-11-28T07:03:46.325Z",
   "news": [
     {
       "id": "Carbon Brief-0",
+      "type": "news",
+      "region": "Global",
+      "source": "Carbon Brief",
+      "date": "27 Nov 2026",
+      "readTime": "4 min read",
+      "title": "‘Sinking’ African megacities will expose seven million people to flooding by 2050",
+      "summary": "Sinking land and rising seas could expose more than seven million people living in Africa’s coastal “megacities” to flooding by&#8230;\nThe post ‘Sinking’ African megacities will expose seven million people to flooding by...",
+      "url": "https://www.carbonbrief.org/sinking-african-megacities-will-expose-seven-million-people-to-flooding-by-2050"
+    },
+    {
+      "id": "Carbon Brief-1",
       "type": "news",
       "region": "Global",
       "source": "Carbon Brief",
@@ -13,7 +24,7 @@
       "url": "https://www.carbonbrief.org/media-reaction-who-is-to-blame-for-cop31-failure"
     },
     {
-      "id": "Carbon Brief-1",
+      "id": "Carbon Brief-2",
       "type": "news",
       "region": "Global",
       "source": "Carbon Brief",
@@ -24,7 +35,7 @@
       "url": "https://www.carbonbrief.org/cb-live-carbon-brief-journalists-discuss-key-cop31-outcomes"
     },
     {
-      "id": "Carbon Brief-2",
+      "id": "Carbon Brief-3",
       "type": "news",
       "region": "Global",
       "source": "Carbon Brief",
@@ -35,18 +46,29 @@
       "url": "https://www.carbonbrief.org/cop31-key-outcomes-for-food-forests-oceans-and-nature-at-the-un-climate-talks-in-antalya"
     },
     {
-      "id": "Carbon Brief-3",
+      "id": "The Guardian UK-0",
       "type": "news",
-      "region": "Global",
-      "source": "Carbon Brief",
-      "date": "23 Nov 2026",
+      "region": "UK",
+      "source": "The Guardian UK",
+      "date": "27 Nov 2026",
       "readTime": "4 min read",
-      "title": "COP31: Key outcomes agreed at the UN climate talks in Antalya",
-      "summary": "The COP31 climate talks in Antalya, Turkey, have failed to reach agreement on a “pact” that lacked clear references to&#8230;\nThe post COP31: Key outcomes agreed at the UN climate talks in Antalya  appeared first on Carb...",
-      "url": "https://www.carbonbrief.org/cop31-key-outcomes-agreed-at-the-un-climate-talks-in-antalya"
+      "title": "Natural England objected to a datacentre. Weeks later ministers threatened to abolish the agency",
+      "summary": "&lt;p&gt;Body urged Bristol city council to reject plan because of risk to nearby protected wildlife and habitats  &lt;/p&gt;&lt;p&gt;Natural England objected to the building of a large AI datacentre near Bristol weeks b...",
+      "url": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol"
     },
     {
-      "id": "The Guardian UK-0",
+      "id": "The Guardian UK-1",
+      "type": "news",
+      "region": "UK",
+      "source": "The Guardian UK",
+      "date": "27 Nov 2026",
+      "readTime": "4 min read",
+      "title": "Lab-houses test indoor air quality to help build UK homes for future",
+      "summary": "&lt;p&gt;Researchers hope purpose-built structures at University of York will show best ways to reduce harmful pollutants&lt;/p&gt;&lt;p&gt;Homes of the future may offer greater protection from outdoor air pollution, acc...",
+      "url": "https://www.theguardian.com/environment/2026/nov/27/lab-houses-test-indoor-air-quality-university-york"
+    },
+    {
+      "id": "The Guardian UK-2",
       "type": "news",
       "region": "UK",
       "source": "The Guardian UK",
@@ -57,40 +79,40 @@
       "url": "https://www.theguardian.com/environment/2026/nov/26/ministers-fail-to-make-case-for-heathrow-third-runway-mps-report-says"
     },
     {
-      "id": "The Guardian UK-1",
-      "type": "news",
-      "region": "UK",
-      "source": "The Guardian UK",
-      "date": "26 Nov 2026",
-      "readTime": "4 min read",
-      "title": "Paul Whitehouse urges PM to act over ‘imminent extinction’ of Windermere’s ice-age fish",
-      "summary": "&lt;p&gt;Experts say arctic char is threatened by pollution in England’s biggest lake as comedian unveils sculpture&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/politics/live/2026/nov/26/...",
-      "url": "https://www.theguardian.com/environment/2026/nov/26/burnham-urged-to-act-extinction-windemere-arctic-char-paul-whitehouse"
-    },
-    {
-      "id": "The Guardian UK-2",
-      "type": "news",
-      "region": "UK",
-      "source": "The Guardian UK",
-      "date": "26 Nov 2026",
-      "readTime": "4 min read",
-      "title": "Faulty electrical goods returned to UK supermarkets ending up on Ghana ‘megadump’",
-      "summary": "&lt;p&gt;Mountains of household items are burned and stripped down at the tip by workers without protection such as masks, investigation alleges&lt;/p&gt;&lt;p&gt;Electrical goods that were returned as faulty to leading ...",
-      "url": "https://www.theguardian.com/environment/2026/nov/26/ghana-waste-tip-faulty-electrical-goods-uk-supermarkets-returns"
-    },
-    {
       "id": "The Guardian UK-3",
       "type": "news",
       "region": "UK",
       "source": "The Guardian UK",
-      "date": "26 Nov 2026",
+      "date": "27 Nov 2026",
       "readTime": "4 min read",
-      "title": "The dhow builders crafting giant historic ships in India – in pictures",
-      "summary": "&lt;p&gt;It takes three years for shipbuilders in the 16th-century port of Mandvi to complete a commission, in a trade that is as cultural as it is technical&lt;/p&gt;&lt;p&gt;In the 16th century, the port city of Mandvi...",
-      "url": "https://www.theguardian.com/environment/2026/nov/26/tradition-giant-ships-india-shipbuilders-mandvi"
+      "title": "Week in wildlife: ‘polar bear jail’, baby penguins and the turkeys’ revenge",
+      "summary": "&lt;p&gt;This week’s best wildlife photographs from around the world&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/environment/gallery/2026/nov/27/week-in-wildlife-polar-bear-jail-baby-penguins-and-the-turkeys-reveng...",
+      "url": "https://www.theguardian.com/environment/gallery/2026/nov/27/week-in-wildlife-polar-bear-jail-baby-penguins-and-the-turkeys-revenge"
     },
     {
       "id": "Inside Climate News-0",
+      "type": "news",
+      "region": "Global",
+      "source": "Inside Climate News",
+      "date": "27 Nov 2026",
+      "readTime": "4 min read",
+      "title": "The Scientist Who Kickstarted Pennsylvania’s Fracking Boom Thought Gas Would Be a ‘Bridge Fuel’",
+      "summary": "Almost 20 years ago, a Penn State University geoscientist named Terry Engelder published an eye-popping estimate of the volume of gas sitting beneath Pennsylvania. That calculation helped trigger the state’s fracking boo...",
+      "url": "https://insideclimatenews.org/news/27112026/marcellus-shale-geoscientist-pennsylvania-fracking-boom/"
+    },
+    {
+      "id": "Inside Climate News-1",
+      "type": "news",
+      "region": "Global",
+      "source": "Inside Climate News",
+      "date": "27 Nov 2026",
+      "readTime": "4 min read",
+      "title": "How the EPA Let a Key Chemical-Detection Program Unravel",
+      "summary": "This story is from Floodlight, a nonprofit newsroom that investigates the powers stalling climate action. Sign up for Floodlight’s newsletter here. When an ammonia leak outside a hotel in Weatherford, Okla., injured 74 p...",
+      "url": "https://insideclimatenews.org/news/27112026/how-the-epa-let-a-key-chemical-detection-program-unravel/"
+    },
+    {
+      "id": "Inside Climate News-2",
       "type": "news",
       "region": "Global",
       "source": "Inside Climate News",
@@ -101,7 +123,7 @@
       "url": "https://insideclimatenews.org/news/26112026/california-endures-historic-coastal-flooding-waves-thanksgiving/"
     },
     {
-      "id": "Inside Climate News-1",
+      "id": "Inside Climate News-3",
       "type": "news",
       "region": "Global",
       "source": "Inside Climate News",
@@ -110,28 +132,6 @@
       "title": "Concrete Flood Walls and an Elevated East River Park Now Protect a Swath of Lower Manhattan",
       "summary": "The most critical parts of the East Side Coastal Resiliency Project&#8217;s flood protection system may be the ones New Yorkers will never see. In the new John V. Lindsay East River Park in lower Manhattan, engineers hav...",
       "url": "https://insideclimatenews.org/news/26112026/manhattan-east-river-park-flood-resiliency/"
-    },
-    {
-      "id": "Inside Climate News-2",
-      "type": "news",
-      "region": "Global",
-      "source": "Inside Climate News",
-      "date": "25 Nov 2026",
-      "readTime": "4 min read",
-      "title": "After Detonating Five Tons of Lead Explosives in Iowa, Army Says Health Risks Are ‘Close to Zero’",
-      "summary": "The U.S. Army detonated five tons of degraded lead azide explosives in southeast Iowa this morning, following delays and legal challenges over concerns about toxic dust generated by the blast. Shortly after 9 a.m. local ...",
-      "url": "https://insideclimatenews.org/news/25112026/iowa-lead-explosives-health-risks-close-to-zero/"
-    },
-    {
-      "id": "Inside Climate News-3",
-      "type": "news",
-      "region": "Global",
-      "source": "Inside Climate News",
-      "date": "25 Nov 2026",
-      "readTime": "4 min read",
-      "title": "A Disappointing UN Climate Summit Concludes With Little Action on Food Systems",
-      "summary": "The first day of the United Nations’ COP31 climate talks in Turkey focused on the nexus of food, agriculture and health, setting a hopeful tone for negotiators and advocacy groups that have been pushing to make food syst...",
-      "url": "https://insideclimatenews.org/news/25112026/a-disappointing-un-climate-summit-concludes-with-little-action-on-food-systems/"
     },
     {
       "id": "paper-0",
@@ -332,10 +332,10 @@
       "platform": "Bluesky",
       "region": "Global",
       "avatar": "KJ",
-      "timestamp": "26 Nov 2026",
+      "timestamp": "27 Nov 2026",
       "title": "Ketan Joshi update",
-      "excerpt": "a hero&#xA;&#xA;[contains quote post or other embedded content]...",
-      "url": "https://bsky.app/profile/ketanjoshi.co/post/3n3ae4evhp22a"
+      "excerpt": "there are so many big flames bursting up all the time in the Blade Runner universe, are they burning off methane? What is going on here...",
+      "url": "https://bsky.app/profile/ketanjoshi.co/post/3n3cxruugsk2s"
     },
     {
       "id": "voice-Ketan Joshi-1",
@@ -344,10 +344,10 @@
       "platform": "Bluesky",
       "region": "Global",
       "avatar": "KJ",
-      "timestamp": "26 Nov 2026",
+      "timestamp": "27 Nov 2026",
       "title": "Ketan Joshi update",
-      "excerpt": "Really useful and interesting convo&#xA;&#xA;[contains quote post or other embedded content]...",
-      "url": "https://bsky.app/profile/ketanjoshi.co/post/3n3a34hn5rc2b"
+      "excerpt": "hate to break it folks but the environmental damage from genai is a measured physical reality rather than an opinion or a position held by people&#xA;&#xA;[contains quote post or other embedded content]...",
+      "url": "https://bsky.app/profile/ketanjoshi.co/post/3n3cx63ivbs2p"
     }
   ]
 }
